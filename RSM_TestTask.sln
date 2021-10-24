@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSM_TestTask", "RSM_TestTask\RSM_TestTask.csproj", "{BE4093B4-304D-4935-BDC5-13D36B934031}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE4093B4-304D-4935-BDC5-13D36B934031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE4093B4-304D-4935-BDC5-13D36B934031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE4093B4-304D-4935-BDC5-13D36B934031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE4093B4-304D-4935-BDC5-13D36B934031}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D08BC081-2C19-448E-A992-5BD71DAA5E9B}
+	EndGlobalSection
+EndGlobal
