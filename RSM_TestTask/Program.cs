@@ -31,12 +31,6 @@ namespace RSM_TestTask
     /// <para>
     ///  В теле метода <see cref="Main"/> кусок кода, для проверки работы
     /// </para>
-    /// <para></para>
-    /// <para></para>
-    /// <para></para>
-    /// <para></para>
-    /// <para></para>
-    /// <para></para>
     /// </summary>
     class Program
     {
